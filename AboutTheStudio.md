@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DualShock-studios
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning Godot
+- 📫 How to reach me? Contact me at 'dualshock.studios@gmail.com'
